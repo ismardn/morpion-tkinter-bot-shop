@@ -2,7 +2,6 @@ import tkinter.ttk  # Permet de créer une interface graphique
 import tkinter.messagebox  # Permet de créer la fenêtre d'aide
 import random  # Permet à l'ordinateur de sélectionner une case aléatoire
 
-import sys
 from pathlib import Path
 
 # Obtient le chemin du répertoire de main.pyw
@@ -17,7 +16,6 @@ def main():  # Fonction principale qui est lancée pour démarrer le programme
     fenetre.title("Jeu du Morpion")  # Définition du titre de la fenêtre
     fenetre.geometry("896x504")  # Définition des dimensions de la fenêtre
     fenetre.resizable(width=False, height=False)  # Fenêtre non redimensionnable
-    fenetre.iconbitmap(f"{CHEMIN_MAIN}/images/icone.ico")  # Définition de l'icône de la fenêtre
 
     interface_menu_initial()  # Affichage de menu initial
 
