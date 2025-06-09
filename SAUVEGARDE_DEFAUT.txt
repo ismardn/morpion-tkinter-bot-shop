@@ -1,0 +1,3 @@
+[nombre_pieces] : 0
+[apparences_definies] : croix_par_defaut,cercle_par_defaut
+[apparences_achetees] : 0

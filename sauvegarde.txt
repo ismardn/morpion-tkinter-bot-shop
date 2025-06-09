@@ -1,0 +1,3 @@
+[nombre_pieces] : 4634635635638
+[apparences_definies] : croix_2,cercle_4
+[apparences_achetees] : croix_3,cercle_2,croix_2,cercle_3,croix_4,cercle_4
