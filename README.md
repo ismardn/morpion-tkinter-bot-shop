@@ -1,7 +1,7 @@
-# Morpion Avancé – Tkinter (Bot Invincible + Boutique)
+# Morpion amélioré - Tkinter
 
 Ce projet est une version enrichie du célèbre jeu du Morpion (Tic-Tac-Toe), réalisée avec **Tkinter**.  
-Le joueur peut notamment affronter un **bot très difficile** (invincible), et accéder à une **boutique d’apparences** pour personnaliser ses pions.
+Le joueur peut notamment affronter un **bot invincible** (seule l'égalité peut être obtenue), et accéder à une **boutique d’apparences** pour personnaliser ses pions.
 
 Une sauvegarde automatique permet de conserver ses achats d’une session à l’autre.
 
